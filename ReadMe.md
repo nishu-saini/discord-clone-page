@@ -5,3 +5,7 @@
 > Website is also mobile and laptop responsive.
 
 Website Link: [Discord Homepage](https://main--gleeful-llama-5d18be.netlify.app/)
+
+Ouput Website:
+
+![Discord Clone Page](./images/output.png "Discord Website")
