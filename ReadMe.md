@@ -4,7 +4,7 @@
 
 > Website is also mobile and laptop responsive.
 
-Website Link: [Discord Homepage](https://main--gleeful-llama-5d18be.netlify.app/)
+Website Link: [Discord Homepage](https://discord-demo-website.netlify.app/)
 
 Ouput Website:
 
